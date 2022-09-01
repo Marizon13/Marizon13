@@ -1,4 +1,4 @@
-### Olá bem vindo ao meu portfólio onde quero ser um fullstack de bigdata
+### Olá bem vindo ao meu portfólio de estudo e projetos!
 👋😄⚡
 
 <!--
