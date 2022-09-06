@@ -1,4 +1,4 @@
-### Olá bem vindo ao meu portfólio de estudo e projetos!
+#### Olá bem vindo ao meu portfólio de estudo e projetos!
 👋😄⚡
 
 Dedico meu tempo livre para me especializar na área de cientista de dados fazendo cursos a parte.
@@ -20,6 +20,6 @@ Tenho aqui minhas atividades e projetos que fiz referente a data science!
   <img align="center alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00??style=for-the-badge&logo=tensorflow&logoColor=white"\>
 </div>
 
-## Meus projetos
+## MEUS PROJETOS 🔥🔥🎖️🎖️🔥🔥
   https://github.com/Marizon13/DataScience                                                                                                                                             
                                                                                                                                                
