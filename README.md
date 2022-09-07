@@ -8,6 +8,7 @@ Tenho aqui minhas atividades e projetos que fiz referente a data science!
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Marizon13)
 
 ![Marizon13 GitHub stats](https://github-readme-stats.vercel.app/api?username=marizon13&show_icons=true&theme=dracula)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marizon13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no dia a dia
@@ -18,8 +19,15 @@ Tenho aqui minhas atividades e projetos que fiz referente a data science!
   <img align="center alt="linux" src="https://img.shields.io/badge/Linux-FCC624??style=for-the-badge&logo=linux&logoColor=black"\>
   <img align="center alt="tableau" src="https://img.shields.io/badge/Tableau-E97627??style=for-the-badge&logo=Tableau&logoColor=white"\>
   <img align="center alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00??style=for-the-badge&logo=tensorflow&logoColor=white"\>
+  <img align="center alt="powerbi" src="https://img.shields.io/badge/PowerBi-red??style=for-the-badge&logo=PowerBi&logoColor=black"\>
+  <img align="center alt="VBA" src="https://img.shields.io/badge/VBA-purple??style=for-the-badge&logo=VBA&logoColor=black"\>
 </div>
 
-## MEUS PROJETOS 🔥🔥🎖️🎖️🔥🔥
-  https://github.com/Marizon13/DataScience                                                                                                                                             
+# MEUS PROJETOS   
+CLICK
+
+👇👇👇👇
+
+[![Github](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Marizon13/DataScience)
+                                                                                                                                           
                                                                                                                                                
