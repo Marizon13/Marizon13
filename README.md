@@ -29,5 +29,5 @@ CLICK
 👇👇👇👇
 
 [![Github](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Marizon13/DataScience)
-                                                                                                                                           
+[![Github](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=black)](https://public.tableau.com/app/profile/welson.felipe.teles.rodrigues/viz/Livro7_16628378497820/DashboardMedalhas)                                                                                                          
                                                                                                                                                
