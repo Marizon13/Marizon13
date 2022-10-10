@@ -1,8 +1,8 @@
 #### Olá bem vindo ao meu portfólio de estudo e projetos!
 👋😄⚡
 
-Dedico meu tempo livre para me especializar na área de cientista de dados fazendo cursos a parte.
-Tenho aqui minhas atividades e projetos que fiz referente a data science!
+Dedico meu tempo livre para me especializar na área de dados fazendo cursos a parte.
+Tenho aqui minhas atividades e projetos que fiz referente a área !
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/welson-felipe-teles-rodrigues/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Marizon13)
