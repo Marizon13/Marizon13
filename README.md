@@ -1,8 +1,11 @@
-#### Olá bem vindo ao meu portfólio de estudo e projetos!
-👋😄⚡
+👋😄⚡ Olá, seja bem-vindo ao meu portfólio dedicado aos meus estudos e projetos!
 
-Dedico meu tempo livre para me especializar na área de dados fazendo cursos a parte.
-Tenho aqui minhas atividades e projetos que fiz referente a área !
+Empenho meu tempo livre para me aprimorar e explorar os desafios envolventes da cibersegurança. A constante evolução deste campo me motiva a buscar conhecimento e desenvolver habilidades práticas.
+
+Seja para fortalecer as defesas digitais, compreender as ameaças emergentes ou contribuir para soluções inovadoras, estou comprometido em ampliar meu entendimento e experiência. Navegue à vontade por meu portfólio e descubra mais sobre meu percurso e projetos.
+
+Estou aberto a oportunidades de aprendizado e colaboração. Caso tenha alguma pergunta ou queira compartilhar conhecimentos, ficarei feliz em conectar-me. Juntos, podemos fortalecer a segurança digital! 💻🔐✨
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/welson-felipe-teles-rodrigues/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Marizon13)
