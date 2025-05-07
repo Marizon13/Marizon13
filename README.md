@@ -10,10 +10,6 @@ Estou em constante aprendizado e aberto a conexões que promovam trocas de conhe
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/welson-felipe-teles-rodrigues/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Marizon13)
 
-![Marizon13 GitHub stats](https://github-readme-stats.vercel.app/api?username=marizon13&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marizon13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Tecnologias que eu uso no dia a dia
 <div style ="display: inline_block"><br\>
   <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
