@@ -17,14 +17,10 @@ Estou em constante aprendizado e aberto a conexões que promovam trocas de conhe
 ## Tecnologias que eu uso no dia a dia
 <div style ="display: inline_block"><br\>
   <img align="center alt="python" src="https://img.shields.io/badge/Python-3776AB??style=for-the-badge&logo=python&logoColor=white" \>
-  <img align="center alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E??style=for-the-badge&logo=sqlite&logoColor=white"\>                                       <img align="center alt="googlecloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the- badge&logo=google-cloud&logoColor=white"\>
-  <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img align="center alt="linux" src="https://img.shields.io/badge/Linux-FCC624??style=for-the-badge&logo=linux&logoColor=black"\>
-  <img align="center alt="tableau" src="https://img.shields.io/badge/Tableau-E97627??style=for-the-badge&logo=Tableau&logoColor=white"\>
-  <img align="center alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00??style=for-the-badge&logo=tensorflow&logoColor=white"\>
-  <img align="center alt="powerbi" src="https://img.shields.io/badge/PowerBi-red??style=for-the-badge&logo=PowerBi&logoColor=black"\>
-  <img align="center alt="VBA" src="https://img.shields.io/badge/VBA-purple??style=for-the-badge&logo=VBA&logoColor=black"\>
-</div>
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
 
 # MEUS PROJETOS   
 CLICK
