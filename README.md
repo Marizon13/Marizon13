@@ -1,10 +1,10 @@
-👋😄⚡ Olá, seja bem-vindo ao meu portfólio dedicado aos meus estudos e projetos!
+👋 Olá, seja bem-vindo ao meu portfólio voltado aos meus estudos e projetos em computação em nuvem!
 
-Empenho meu tempo livre para me aprimorar e explorar os desafios envolventes da cibersegurança. A constante evolução deste campo me motiva a buscar conhecimento e desenvolver habilidades práticas.
+Dedico meu tempo livre para me especializar em Cloud, explorando práticas de infraestrutura como código, automação e arquitetura de soluções escaláveis.
 
-Seja para fortalecer as defesas digitais, compreender as ameaças emergentes ou contribuir para soluções inovadoras, estou comprometido em ampliar meu entendimento e experiência. Navegue à vontade por meu portfólio e descubra mais sobre meu percurso e projetos.
+Aqui você encontrará projetos que desenvolvi com foco em provisionamento automatizado, gerenciamento de recursos cloud e aplicação de boas práticas em ambientes reais de nuvem.
 
-Estou aberto a oportunidades de aprendizado e colaboração. Caso tenha alguma pergunta ou queira compartilhar conhecimentos, ficarei feliz em conectar-me. Juntos, podemos fortalecer a segurança digital! 💻🔐✨
+Estou em constante aprendizado e aberto a conexões que promovam trocas de conhecimento, colaboração e crescimento profissional. Fique à vontade para explorar meu portfólio e conhecer mais sobre minha jornada na área de Cloud Computing!
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/welson-felipe-teles-rodrigues/)
@@ -18,7 +18,7 @@ Estou aberto a oportunidades de aprendizado e colaboração. Caso tenha alguma p
 <div style ="display: inline_block"><br\>
   <img align="center alt="python" src="https://img.shields.io/badge/Python-3776AB??style=for-the-badge&logo=python&logoColor=white" \>
   <img align="center alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E??style=for-the-badge&logo=sqlite&logoColor=white"\>                                       <img align="center alt="googlecloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the- badge&logo=google-cloud&logoColor=white"\>
-  <img align="center alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346??style=for-the-badge&logo=microsoft-excel&logoColor=white"\>
+  <img align="center alt="AWS" src="https://img.shields.io/badge/Microsoft_Excel-217346??style=for-the-badge&logo=microsoft-excel&logoColor=white"\>
   <img align="center alt="linux" src="https://img.shields.io/badge/Linux-FCC624??style=for-the-badge&logo=linux&logoColor=black"\>
   <img align="center alt="tableau" src="https://img.shields.io/badge/Tableau-E97627??style=for-the-badge&logo=Tableau&logoColor=white"\>
   <img align="center alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00??style=for-the-badge&logo=tensorflow&logoColor=white"\>
