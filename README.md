@@ -17,9 +17,10 @@ Estou em constante aprendizado e aberto a conexões que promovam trocas de conhe
 ## Tecnologias que eu uso no dia a dia
 <div style ="display: inline_block"><br\>
   <img align="center alt="python" src="https://img.shields.io/badge/Python-3776AB??style=for-the-badge&logo=python&logoColor=white" \>
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+  <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img align="center" alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+
 
 
 # MEUS PROJETOS   
