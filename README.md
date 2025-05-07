@@ -18,7 +18,7 @@ Estou em constante aprendizado e aberto a conexões que promovam trocas de conhe
 <div style ="display: inline_block"><br\>
   <img align="center alt="python" src="https://img.shields.io/badge/Python-3776AB??style=for-the-badge&logo=python&logoColor=white" \>
   <img align="center alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E??style=for-the-badge&logo=sqlite&logoColor=white"\>                                       <img align="center alt="googlecloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the- badge&logo=google-cloud&logoColor=white"\>
-  <img align="center alt="aws" src="https://img.shields.io/badge/Microsoft_Excel-217346??style=for-the-badge&logo=microsoft-excel&logoColor=white"\>
+  <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img align="center alt="linux" src="https://img.shields.io/badge/Linux-FCC624??style=for-the-badge&logo=linux&logoColor=black"\>
   <img align="center alt="tableau" src="https://img.shields.io/badge/Tableau-E97627??style=for-the-badge&logo=Tableau&logoColor=white"\>
   <img align="center alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00??style=for-the-badge&logo=tensorflow&logoColor=white"\>
